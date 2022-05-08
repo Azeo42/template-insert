@@ -1,0 +1,24 @@
+{
+  "name": "template-insert",
+  "version": "1.0.0",
+  "description": "Create templates with placeholders and insert variables into the placeholders. Works with every text but was designed for HTML files.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azeo42/template-insert.git"
+  },
+  "keywords": [
+    "Template",
+    "Html"
+  ],
+  "author": "Azeo42",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azeo42/template-insert/issues"
+  },
+  "homepage": "https://github.com/Azeo42/template-insert#readme"
+}
